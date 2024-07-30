@@ -1,4 +1,9 @@
+body{
+    font-family: "Vazirmatn", sans-serif;
+}
+
 .main{
+
     margin: auto;
     text-align: center;
 }
